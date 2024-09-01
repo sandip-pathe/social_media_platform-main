@@ -26,6 +26,7 @@ This project is a simple web application built with vanilla HTML, CSS, and JavaS
 ├── index.css
 ├── index.js
 └── README.md
+└── config.public.js
 ``` 
 
 
