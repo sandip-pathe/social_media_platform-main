@@ -6,7 +6,12 @@ import {
   onAuthStateChanged,
   signOut,
 } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js";
-import { firebaseConfig } from "./config.js";
+
+//Private
+// import { firebaseConfig } from "./config.js";
+
+//Public
+import { firebaseConfig } from "./config.public.js";
 
 // Sidebar
 const menuItems = document.querySelectorAll(".menu-item");
